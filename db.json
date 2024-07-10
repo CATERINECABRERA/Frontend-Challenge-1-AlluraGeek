@@ -1,0 +1,24 @@
+{
+    "productos": [
+        {
+            "name": "Stromtrooper",
+            "url": "http://localhost:5500/images/stormtrooper.png",
+            "price": "60,00"
+        },
+        {
+            "name": "Nintendo Switch",
+            "url": "http://localhost:5500/images/switch.jpg",
+            "price": "100,00"
+        },
+        {
+            "name": "Play 5",
+            "url": "http://localhost:5500/images/play5.jpeg",
+            "price": "400,00"
+        },
+        {
+            "name": "Gameboy",
+            "url": "http://localhost:5500/images/gameboy.jpg",
+            "price": "180,00"
+        }
+    ]
+}
