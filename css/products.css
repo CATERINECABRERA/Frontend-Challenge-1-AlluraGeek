@@ -1,0 +1,16 @@
+.allura_nav__layout {
+    display: flex;
+    flex-direction: column;
+}
+
+.products-container {
+    display: flex;
+    flex-wrap: grap;
+    font-family: "Roboto Condensed", sans-serif;
+    margin-top: 20px;
+}
+
+.allura_nav__products-title {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 20px;
+}
